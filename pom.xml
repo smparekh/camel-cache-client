@@ -9,8 +9,8 @@
 	<packaging>bundle</packaging>
 	<version>1.0.0-SNAPSHOT</version>
 
-	<name>A Camel Blueprint Route</name>
-	<url>http://www.myorganization.org</url>
+	<name>A Camel Cache Client</name>
+	<url>http://www.redhat.com</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
